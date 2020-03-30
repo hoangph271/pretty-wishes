@@ -10,6 +10,7 @@ const App = () => {
         <span>{' @ '}</span>
         <span>{'C#'}</span>
       </h1>
+      <div>{'--'}</div>
       <div>May the confidence be high...!</div>
       <div>May the difficulty be low...!</div>
       <div>{'--'}</div>
