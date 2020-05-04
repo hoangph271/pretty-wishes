@@ -9,11 +9,11 @@ body {
   background-image: url(https://cdnb.artstation.com/p/assets/images/images/013/711/773/large/quickspin-jobs-background.jpg?1540816806);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: bottom;
+  background-position: left bottom;
 }
 
 .App {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
   text-align: center;
   border: none;
   background-color: rgba(9, 132, 227, 0.15);
